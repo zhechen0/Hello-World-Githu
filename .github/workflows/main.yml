@@ -1,16 +1,3 @@
-# This is a basic workflow to help you get started witname: Greeting from <Your_Name>
-on: push
-jobs:
-my-job:
-name: My Job
-runs-on: ubuntu-latest
-steps:
-- name: Print a greeting
-env:
-MY_VAR: Hi there! My name is
-FIRST_NAME: Mona
-MIDDLE_NAME: The
-name: Greetion: push
 name: Greeting from <CHEN_Zhe>
 on: push
 
